@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R Vincent:staff /alx-system_engineering-devops/0x01-shell_permissions/dir0/dir1/dir/my_dir
+chown -R vincent:staff . /alx-system_engineering-devops/0x01-shell_permissions
