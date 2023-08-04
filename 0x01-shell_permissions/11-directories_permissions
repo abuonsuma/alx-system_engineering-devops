@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d+x dir1 dir2 dir0
+chmod da+x dir1 dir2 dir0
